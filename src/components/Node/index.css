@@ -1,0 +1,16 @@
+.snake{
+  background:#4f78f8;
+  outline:1px solid #01579b;
+}
+.wall{
+  background-color: #578a34
+}
+.fruit{
+  background-color: #dd2c00;
+}
+.grass{
+  background-color: #aad751
+}
+.grass2{
+  background-color: #a2d149
+}
